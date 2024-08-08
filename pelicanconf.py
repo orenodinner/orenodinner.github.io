@@ -6,7 +6,7 @@ PATH = "content"
 
 TIMEZONE = "Asia/Tokyo"
 
-DEFAULT_LANG = "Japanese"
+DEFAULT_LANG = "Jp"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
