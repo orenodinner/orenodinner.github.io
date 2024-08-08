@@ -2,11 +2,13 @@ AUTHOR = "orenodinner"
 SITENAME = "orenoログ"
 SITEURL = ""
 
+THEME = "C://Users//oreno//pellican-theme//crowsfoot"
 PATH = "content"
 
 TIMEZONE = "Asia/Tokyo"
 
 DEFAULT_LANG = "Japanese"
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
