@@ -1,6 +1,6 @@
 AUTHOR = "orenodinner"
 SITENAME = "orenoログ"
-SITEURL = "https://orenodinner.github.io/"
+SITEURL = ""
 
 THEME = "C://Users//oreno//pellican-theme//crowsfoot"
 PATH = "content"
