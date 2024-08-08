@@ -2,7 +2,7 @@ AUTHOR = "orenodinner"
 SITENAME = "orenoログ"
 SITEURL = ""
 
-PATH = "./"
+PATH = "content"
 
 TIMEZONE = "Asia/Tokyo"
 
